@@ -18,4 +18,6 @@ It then displays the filtered data, which the user can interact with. When the u
 specific event in the inputted data file.
 
 This repository contains the python file for the page that I described above, as well as the user manual for the desktop application and the final documentation for
-my group's iteration of the project. 
+my group's iteration of the project. There is also an MP4 file of the recording of my team's final presentation of the project that features a break down of the
+applications features, as well as a live demo.
+
